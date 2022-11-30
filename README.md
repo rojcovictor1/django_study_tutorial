@@ -1,3 +1,4 @@
-# django_study_tutorial
+## django_study_project
 based on youtube tutorial
-Integradion between django, djangorestframework, html 
+
+Integration between django, djangorestframework and html
